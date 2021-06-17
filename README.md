@@ -2,7 +2,7 @@
 
 [Website](https://www.romantetelbaum.me) | [LinkedIn](https://www.linkedin.com/in/rtetelbaum/) | [Medium](https://rtetelbaum.medium.com/)
 
-My passion for tech is always expanding and I'm excited about my recent transition to software engineering after 10 years of working as an IT support specialist! My most recent successes include graduating Flatiron School's Software Engineering Program and receiving my AWS Solutions Architect Associate Certification. I love solving puzzles and I see coding as an opportunity to solve an ever-evolving and complex world of puzzles in a collaborative environment with other like-minded and talented people. When I'm not coding I enjoy the outdoors and spend much of my time hiking, skiing, and honing my archery skills!
+A passionate software engineer with an insatiable curiosity for solving puzzles through elegant and efficient code, and a strong background in tech with extensive experience in IT support and now working strictly in development. When I’m not busy developing software solutions or honing my tech skills, you can find me on the ski slopes, hiking a mountain, or practicing zen in the art of archery.
 
 Languages: JavaScript, Ruby, HTML, CSS, Sibilant
 Frameworks: React, Rails, Semantic UI, Material-UI, PrimeReact, Bulma
